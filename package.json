@@ -1,0 +1,8 @@
+{
+	"name": "yarn-4-node-linker-pnpm-esbuild-repro",
+	"packageManager": "yarn@4.0.1",
+	"license": "MIT",
+	"dependencies": {
+		"esbuild": "^0.19.5"
+	}
+}
